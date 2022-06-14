@@ -11,30 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in in Mechanical Engineering, Universidad de Chile - Santiago de Chile, Chile, 2019,
+* Mechanical Engineer Professional Degree, Universidad de Chile - Santiago de Chile, Chile, 2019
+* M.S. in in Reliability Engineering, University of Maryland - College Park, Maryland, U.S, 2021
+* Ph.D in Mechanical and Aerospace Engineering, University of California Los Angeles, 2021-present
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021- Present: Graduate Student Researcher
+  * UCLA - B. John Garrick Institute for the Risk Sciences (GIRS)
+  * Addressing operational safety concepts for Level 4 Autonomous Driving System (ADS) fleets.
+  * Supervisor: Dr. Ali Mosleh, Dr. Jiaqi Ma, Dr. Marilia Ramos
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019 - Spring 2021: Graduate Research Assistant
+  * University of Maryland - Systems Risk and Reliability Analysis Laboratory (SyRRA)
+  * Exploring Prognostics and Health Management applications in risk and reliability assessments of hydrogen fueling stations.
+  * Supervisor: Dr. Katrina Groth
+
+* Spring-Summer 2019
+  * Universidad de Chile - Energy Center Researcher for ATAMOS Project
+  * Performance prediction of Solar PV energy based on meteorological conditions and historical operational data. Exploration of Machine Learning techniques for Prognosis and Health Management (PHM) for Solar PV.
+  * Supervisor: Dr. Jose Miguel Cardemil, Dr. Williams Calderon 
+
+* Spring-Summer 2019
+  * Universidad de Chile - Smart Reliability and Maintenance Integration Laboratory (SRMI)
+  * Exploration of Reinforcement Learning policies for building energy management, focused on the integration Solar Hot Water Systems to HVAC system.
+  * Supervisor: Dr. Enrique Lopez, Dr. Jose Miguel Cardemil 
+
+* Winter 2018
+  * Fraunhofer Foundation Chile Research - Center for Solar Energy Technologies (CSET)
+  * Engineering Trainee Internship in Applied research project. Solar Process Heat Area. Research on solar resource availability, poly-generation technology; and solar heating and cooling applications in industry. Simulation of solar cooling through absorption chillers in TRNSYS.
+  * Supervisor: Dr. Mercedes Ibarra
+
+* Winter 2017
+  * Enercom S.A.
+  * Engineering Trainee Internship in Production Area. Design process of cyclones, hydro-cyclones, screw heat exchangers and belt conveyors. 
+  * Supervisor: Rafael Maturana
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Risk Assessments.
+* Programming & Software.
+* Bilingual: Spanish (native), English. 
+
+Awards
+======
+* University of Maryland -A. James Clark School of Engineering
+  * 2021 Master’s Dean’s Research Award Second Place Prize, July 2021
+
+* Colegio de Ingenieros de Chile A.G. (Chilean Society of Engineers)
+  * Academic Achievement Award. Best Mechanical Engineering Professional Graduate 2019, December 2020
+ 
+* American Society of Mechanical Engineering (ASME) - Safety Engineering & Risk Analysis Division (SERAD)
+  * SER2AD Student Safety Innovation Challenge Honorable Mention Award, July 2020
+
+* University of Maryland - A. James Clark School of Engineering
+  * Willie M. Webb Reliability Engineering Fellowship June 2020
+
+* Chilean National Agency for Research and Development (ANID) - Ministry of Science and Technology, Chile.
+  * International Master Degree Scholarship Becas Chile July 2019
+
+* Universidad de Chile
+  * Professional Degree of Mechanical Engineer, Highest Academic Distinction, January 2019
+
 
 Publications
 ======
@@ -56,4 +96,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Professional Service: Journal article reviewer
+  * Solar Energy Journal, IEEE Transactions LATAM, Energy Sources Journal, International Journal of Hydrogen Energy, Environment Systems and Decisions. 
