@@ -4,12 +4,11 @@ collection: talks
 type: "Talk"
 permalink: /talks/UMD-NREL
 venue: "Virtual NREL Technical Seminars"
-date: 2020
-location: "Albuquerque, NM, USA"
+date: November, 2020
+location: "College Park, MD"
 ---
 
 Authors: Camila Correa-Jullian and Katrina M. Groth. In partnership with William Buttner (NREL).  
-Presented at National Fire Protection Agency (NFPA) NFPA 2 Hydrogen Technologies Code Task Meeting April 2020.
 
 About
 ======
