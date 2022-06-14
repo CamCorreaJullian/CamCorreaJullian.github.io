@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/UCLA-TA
 venue: "University of California, Civil and Environmental Engineering"
-date: Spring 2022
+date: 2022-06-10
 location: "Los Angeles, CA, US."
 ---
 
