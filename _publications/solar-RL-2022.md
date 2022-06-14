@@ -5,7 +5,7 @@ permalink: /publication/solar-RL-2022
 excerpt: 'Research Assistant SRMI Lab'
 date: 2020-06-20
 venue: 'Applied Energy'
-paperurl: '[Applied Energy](https://doi.org/10.1016/j.apenergy.2020.114943)'
+paperurl: ''
 citation: 'Camila Correa-Jullian, Enrique López Droguett, and José Miguel Cardemil. Operation scheduling in a solar thermal system: A reinforcement learning-based framework. Applied Energy, 268:114943, 2020. doi:https://doi.org/10.1016/j.apenergy.2020.114943'
 ---
 **Highlights**
