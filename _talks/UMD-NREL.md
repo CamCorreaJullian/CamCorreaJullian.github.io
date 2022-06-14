@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/UMD-NREL
 venue: "Virtual NREL Technical Seminars"
-date: November, 2020
+date: 2020-11-17
 location: "College Park, MD"
 ---
 
