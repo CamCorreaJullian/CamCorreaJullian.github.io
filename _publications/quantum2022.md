@@ -2,7 +2,7 @@
 title: " Exploring Quantum Machine Learning and Feature Reduction Techniques for Wind Turbine Pitch Fault Detection"
 collection: publications
 permalink: /publication/quantum2022
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Winter2022'
 date: 2022-04-08
 venue: 'Energies, Special Issue Intelligent Condition Monitoring of Wind Power Systems'
 paperurl: '[Energies, Volume 15, Issue 8](https://www.mdpi.com/1996-1073/15/8/2792)'
