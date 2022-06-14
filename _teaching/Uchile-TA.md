@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/Uchile-TA
 venue: "Universidad de Chile, Mechanical Engineering Department"
-date:
+date: 2019-01-27
 location: "Santiago, Chile"
 ---
 
