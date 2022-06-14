@@ -3,7 +3,7 @@ title: "Assessment of Deep Learning techniques for Prognosis of solar thermal sy
 collection: publications
 permalink: /publication/solar-DL-2020
 excerpt: 'Undergraduate Thesis Part I'
-date: 2020-01
+date: 2020-01-15
 venue: 'Renewable Energy'
 paperurl: '[Renewable Energy](https://doi.org/10.1016/j.renene.2019.07.100)'
 citation: 'Camila Correa-Jullian, José Miguel Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of deep learning techniques for prognosis of solar thermal systems. Renewable Energy, 145:2178 – 2191, 2020. doi:https://doi.org/10.1016/j.renene.2019.07.100'
