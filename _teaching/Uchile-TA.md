@@ -8,7 +8,8 @@ date: 2019-01-27
 location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a summary of various courses in which I participated in the intructional team at the [Mechanical Engineering Department, Faculty of Physical and Mathematical Sciences of the Universidad de Chile](https://dimec.uchile.cl/app/). 
+
 
 Thermo-Fluids System Engineering, Spring 2018
 ======
