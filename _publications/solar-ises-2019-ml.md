@@ -1,12 +1,12 @@
 ---
 title: "Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems"
-collection: publication
-permalink: /conferences/solar-ises-2019-ml
+collection: conference
+permalink: /publications/solar-ises-2019-ml
 excerpt: 'Undergraduate Thesis Part II'
 date: 2019-08-03
 venue: 'Presented at the ISES Solar World Congress 2019'
 paperurl: 
-citation: 'Camila Correa Jullian, Jose Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems. In Proceedings of the ISES Solar World Congress 2019, pages 1–12, Freiburg, Germany, nov 2019. International Solar Energy Society. doi:10.18086/swc.2019.08.03.'
+citation: 'Camila Correa Jullian, Jose Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems. In Proceedings of the ISES Solar World Congress 2019, pages 1–12, Freiburg, Germany, nov 2019. International Solar Energy Society. doi:10.18086/swc.2019.08.03
 '
 ---
 **Abstract**
@@ -17,4 +17,4 @@ Keywords: Solar hot water systems, performance forecast, anomaly detection, Deep
 
 [View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911535/swc2019-0033-CorreaJullian.pdf)
 
-Recommended citation: Camila Correa Jullian, Jose Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems. In Proceedings of the ISES Solar World Congress 2019, pages 1–12, Freiburg, Germany, nov 2019. International Solar Energy Society. doi:10.18086/swc.2019.08.03'
+Recommended citation: Camila Correa Jullian, Jose Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems. In Proceedings of the ISES Solar World Congress 2019, pages 1–12, Freiburg, Germany, nov 2019. International Solar Energy Society. doi:10.18086/swc.2019.08.03
