@@ -3,7 +3,7 @@ title: " Exploring Quantum Machine Learning and Feature Reduction Techniques for
 collection: publications
 permalink: /publication/quantum2022
 excerpt: 'Fall 2021-Winter 2022 Project'
-date: 2022-04-08
+date: 2022-04-11
 venue: 'Energies, Special Issue Intelligent Condition Monitoring of Wind Power Systems'
 paperurl: 
 citation: 'Correa-Jullian, C.; Cofre-Martel, S.; San Martin, G.; Lopez Droguett, E.; de Novaes Pires Leite, G.; Costa, A. Exploring Quantum Machine Learning and Feature Reduction Techniques for Wind Turbine Pitch Fault Detection. Energies 2022, 15, 2792. https://doi.org/10.3390/en15082792'
