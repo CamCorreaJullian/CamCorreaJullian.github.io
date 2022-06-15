@@ -53,7 +53,7 @@ Work experience
 Skills
 ======
 * Risk Assessments.
-* Programming & Software.
+* Relevant Programming & Software: Python, Matlab, Mathematica, JMP. 
 * Bilingual: Spanish (native), English. 
 
 Awards
