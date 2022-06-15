@@ -2,7 +2,7 @@
 title: "Liquid Hydrogen Storage System FMEA and Data Requirements for Risk Analysis"
 collection: publication
 permalink: /conferences/esrel2020
-excerpt: 'Master Thesis Part I'
+excerpt: 'Master Thesis Part I - Conference'
 date: 2020-11-01
 venue: 'Presented at the 30th European Safety and Reliability Conference (ESREL 2020)'
 paperurl: 
