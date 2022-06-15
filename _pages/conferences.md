@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
- 
-{% for post in site.conference reversed %}
+
+{% for post in site.conferences reversed %}
   {% include archive-single.html %}
 {% endfor %}
