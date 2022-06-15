@@ -2,7 +2,7 @@
 title: "Operation scheduling in a solar thermal system: A reinforcement learning-based framework"
 collection: publications
 permalink: /publication/solar-RL-2022
-excerpt: 'Research Assistant SRMI Lab'
+excerpt: 'Research Project Spring-Summer 2019'
 date: 2020-04-24
 venue: 'Applied Energy'
 paperurl: ''
