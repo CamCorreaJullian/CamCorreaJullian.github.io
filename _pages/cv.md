@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV Updated June 2022](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911352/CV_June2022.pdf)
 
 Education
 ======
