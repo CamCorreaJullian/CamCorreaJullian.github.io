@@ -1,0 +1,18 @@
+---
+title: "Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks"
+collection: conference
+permalink: /publication/qra_ICHS
+excerpt: 'MS Thesis Part I'
+date: 2021-10-22
+venue: 'Presented at the International Conference on Hydrogen Safety (ICHS 2021), 21-23 September 2021'
+paperurl: 
+citation: 'Kevin Hartmann, Camila Correa-Jullian, Jacob Thorson, Katrina Groth, and William Buttner. Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks. Presented at 9th International Conference on Hydrogen Safety (ICHS 2021), 10 2021. URL: https://www.osti.gov/biblio/1828144'
+---
+**Abstract**
+
+The National Renewable Energy Laboratory's (NREL) Hydrogen Safety Research and Development (HSR&D) program in collaboration with the University of Maryland's Systems Risk and Reliability Analysis Laboratory (SyRRA) are working to improve reliability and reduce risk in hydrogen systems. This approach strives to use quantitative data on component leaks and failures, together with Prognosis and Health Management (PHM), and Quantitative Risk Assessment (QRA) to identify at-risk components, reduce component failures and downtime, and predict when components require maintenance. Hydrogen component failures increase facility maintenance cost, facility downtime, and reduce public acceptance of hydrogen technologies, ultimately increasing facility size and cost because of potentially overly conservative requirements. Leaks are a predominant failure mode for hydrogen components. However, uncertainties in the amount of hydrogen emitted from leaking components and the frequency of those failure events limit the understanding of the risks that they present under real-world operational conditions. NREL has deployed a test fixture, the Leak Rate Quantification Apparatus (LRQA), to quantify the mass flow rate of leaking gases from medium and high-pressure components that have failed while in service. Quantitative hydrogen leak rate data from this system could ultimately be used to better inform risk assessment and Regulation Codes and Standards (RCS). Parallel activity explores the use of PHM and QRA techniques to assess and reduce risk, thereby improving safety and reliability of hydrogen systems. The results of QRAs could further provide a systematic and science-based foundation for the design and implementation of RCS, as in the latest versions of the NFPA 2 code for gaseous hydrogen stations. Alternatively, data-driven techniques of PHM could provide new damage diagnosis and health-state prognosis tools. This research will help end users, station owners and operators, and regulatory bodies move towards risk-informed preventative maintenance versus emergency corrective maintenance, reducing cost and improving reliability. Predictive modelling of failures could improve safety and affect RCS requirements such as setback distances at liquid refuelling sites. The combination of leak rate quantification research, PHM, and QRA can lead to better informed models enabling data-based decision to be made for hydrogen system safety improvements.
+
+
+[View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911080/79598_qra_ichs.pdf)
+
+Recommended citation: Kevin Hartmann, Camila Correa-Jullian, Jacob Thorson, Katrina Groth, and William Buttner. Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks. Presented at 9th International Conference on Hydrogen Safety (ICHS 2021), 10 2021. URL: https://www.osti.gov/biblio/1828144
