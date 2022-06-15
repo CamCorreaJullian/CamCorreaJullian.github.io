@@ -1,7 +1,7 @@
 ---
 title: "Defining Degradation States for Diagnosis Classification Models in Real Systems based on Monitoring Data"
 collection: conference
-permalink: /publication/esrel2021
+permalink: /conferences/esrel2021
 excerpt: 'Winter-Spring 2021 Project'
 date: 2021-09-19
 venue: 'Presented at the 31st European Safety and Reliability Conference (ESREL 2021)'
