@@ -15,4 +15,4 @@ The National Renewable Energy Laboratory's (NREL) Hydrogen Safety Research and D
 
 [View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911080/79598_qra_ichs.pdf)
 
-Recommended citation: Kevin Hartmann, Camila Correa-Jullian, Jacob Thorson, Katrina Groth, and William Buttner. Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks. Presented at 9th International Conference on Hydrogen Safety (ICHS 2021), 10 2021. URL: https://www.osti.gov/biblio/1828144
+Recommended citation: Kevin Hartmann, Camila Correa-Jullian, Jacob Thorson, Katrina Groth, and William Buttner. Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks. Presented at 9th International Conference on Hydrogen Safety (ICHS 2021), 10 2021. URL: [https://www.osti.gov/biblio/1828144](https://www.osti.gov/biblio/1828144)
