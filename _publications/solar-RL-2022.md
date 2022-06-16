@@ -20,4 +20,4 @@ Reinforcement learning (RL) provides an alternative method for designing conditi
 
 Keywords: Solar hot water systems; Reinforcement learning; Intelligent control systems; Condition-based decision-making; Q-learning; Machine learning
 
-Recommended citation: Camila Correa-Jullian, Enrique López Droguett, and José Miguel Cardemil. Operation scheduling in a solar thermal system: A reinforcement learning-based framework. Applied Energy, 268:114943, 2020. doi:https://doi.org/10.1016/j.apenergy.2020.114943
+Recommended citation: Camila Correa-Jullian, Enrique López Droguett, and José Miguel Cardemil. Operation scheduling in a solar thermal system: A reinforcement learning-based framework. Applied Energy, 268:114943, 2020. [doi:https://doi.org/10.1016/j.apenergy.2020.114943](https://doi.org/10.1016/j.apenergy.2020.114943)
