@@ -12,4 +12,4 @@ Driven by the development of machine learning (ML) and deep learning techniques,
 
 Keywords: quantum machine learning; quantum kernels; wind turbine systems; SCADA system; pitch fault diagnostics; feature reduction; principal component analysis; autoencoders; machine learning; prognostics and health management
 
-Recommended citation: Correa-Jullian, C.; Cofre-Martel, S.; San Martin, G.; Lopez Droguett, E.; de Novaes Pires Leite, G.; Costa, A. Exploring Quantum Machine Learning and Feature Reduction Techniques for Wind Turbine Pitch Fault Detection. Energies 2022, 15, 2792. https://doi.org/10.3390/en15082792.
+Recommended citation: Correa-Jullian, C.; Cofre-Martel, S.; San Martin, G.; Lopez Droguett, E.; de Novaes Pires Leite, G.; Costa, A. Exploring Quantum Machine Learning and Feature Reduction Techniques for Wind Turbine Pitch Fault Detection. Energies 2022, 15, 2792. [https://doi.org/10.3390/en15082792]( https://doi.org/10.3390/en15082792)
