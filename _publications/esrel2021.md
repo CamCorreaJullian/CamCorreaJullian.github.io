@@ -16,4 +16,4 @@ Keywords: Diagnostics, Classification, Machine learning, Machinery data processi
 
 [View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911118/esrel_2021.pdf)
 
-Recommended citation: Sergio Cofre-Martel, Camila Correa-Jullian, Enrique López Droguett, Katrina M. Groth, and Mohammad Modarres Modarres. Defining Degradation States for Diagnosis Classification Models in Real Systems Based on Monitoring Data. In Proceedings of the 31st European Safety and Reliability Conference (ESREL 2021), pages 1286–1293, Singapore. Research Publishing Services. doi:10.3850/978-981-18-2016-8_303-cd
+Recommended citation: Sergio Cofre-Martel, Camila Correa-Jullian, Enrique López Droguett, Katrina M. Groth, and Mohammad Modarres Modarres. Defining Degradation States for Diagnosis Classification Models in Real Systems Based on Monitoring Data. In Proceedings of the 31st European Safety and Reliability Conference (ESREL 2021), pages 1286–1293, Singapore. Research Publishing Services. [doi:10.3850/978-981-18-2016-8_303-cd](https://rpsonline.com.sg/proceedings/9789811820168/html/303.xml)
