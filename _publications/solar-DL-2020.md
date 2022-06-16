@@ -19,4 +19,4 @@ Solar Hot Water (SHW) systems are a sustainable and renewable alternative for do
 
 Keywords: Deep learning; Performance prediction; Solar thermal systems
 
-Recommended citation: Camila Correa-Jullian, José Miguel Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of deep learning techniques for prognosis of solar thermal systems. Renewable Energy, 145:2178 – 2191, 2020. doi:https://doi.org/10.1016/j.renene.2019.07.100
+Recommended citation: Camila Correa-Jullian, José Miguel Cardemil, Enrique López Droguett, and Masoud Behzad. Assessment of deep learning techniques for prognosis of solar thermal systems. Renewable Energy, 145:2178 – 2191, 2020. [doi:https://doi.org/10.1016/j.renene.2019.07.100](https://doi.org/10.1016/j.renene.2019.07.100)
