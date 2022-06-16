@@ -16,4 +16,4 @@ Keywords: Linear Fresnel, mini-channel tube, medium temperature, direct steam ge
 
 [View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911513/swc2019-0050-Castillo.pdf)
 
-Recommended citation: Pablo Castillo, Camila Correa-Jullian, Ignacio Calderón, Williams Calderón, and Gerardo Diaz. Optical and Thermal Assessment of a Linear Fresnel Collector with Minichannel Absorber Tube for Medium Temperature Applications. In Proceedings of the ISES Solar World Congress 2019, pages 1–11, Freiburg, Germany, nov 2019. International Solar Energy Society. doi:10.18086/swc.2019.12.01
+Recommended citation: Pablo Castillo, Camila Correa-Jullian, Ignacio Calderón, Williams Calderón, and Gerardo Diaz. Optical and Thermal Assessment of a Linear Fresnel Collector with Minichannel Absorber Tube for Medium Temperature Applications. In Proceedings of the ISES Solar World Congress 2019, pages 1–11, Freiburg, Germany, nov 2019. International Solar Energy Society. [doi:10.18086/swc.2019.12.01](http://proceedings.ises.org/?doi=swc.2019.12.01)
