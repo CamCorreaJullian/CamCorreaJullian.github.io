@@ -16,4 +16,4 @@ Keywords: Solar absorption refrigeration system, solar integration to dairy indu
 
 [View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911661/eurosun2018-0072-CorreaJullian.pdf)
 
-Recommended citation: Camila Correa-Jullian, Alicia Crespo, Felipe Cortés, and Mercedes Ibarra. Simulation of a Solar Fired Absorption System for a Case Study in the Dairy Industry. In Proceedings of EuroSun 2018, pages 1–10, Freiburg, Germany, 2018. International Solar Energy Society. doi:10.18086/eurosun2018.04.16
+Recommended citation: Camila Correa-Jullian, Alicia Crespo, Felipe Cortés, and Mercedes Ibarra. Simulation of a Solar Fired Absorption System for a Case Study in the Dairy Industry. In Proceedings of EuroSun 2018, pages 1–10, Freiburg, Germany, 2018. International Solar Energy Society. [doi:10.18086/eurosun2018.04.16](http://proceedings.ises.org/?doi=eurosun2018.04.16)
