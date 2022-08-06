@@ -1,5 +1,5 @@
 ---
-title: "Optical and Thermal Assessment of a Linear Fresnel Collector with Minichannel Absorber Tube for Medium Temperature Applications"
+title: Conference: "Optical and Thermal Assessment of a Linear Fresnel Collector with Minichannel Absorber Tube for Medium Temperature Applications"
 collection: publication
 permalink: /publications/solar-ises-2019
 excerpt: 'Spring 2019 Project'
