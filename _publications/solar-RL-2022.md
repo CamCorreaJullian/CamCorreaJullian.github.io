@@ -1,5 +1,5 @@
 ---
-title: "Operation scheduling in a solar thermal system: A reinforcement learning-based framework"
+title: "Journal: Operation scheduling in a solar thermal system: A reinforcement learning-based framework"
 collection: publications
 permalink: /publication/solar-RL-2022
 excerpt: 'Spring-Summer 2019 Project '
