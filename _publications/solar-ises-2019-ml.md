@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems"
+title: "Conference: Assessment of Deep Learning Algorithms for Fault Diagnosis of Solar Thermal Systems"
 collection: conference
 permalink: /publications/solar-ises-2019-ml
 excerpt: 'Undergraduate Thesis Part II'
