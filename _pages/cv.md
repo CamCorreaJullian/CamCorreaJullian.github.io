@@ -18,7 +18,7 @@ Education
 * Ph.D in Mechanical and Aerospace Engineering, University of California Los Angeles, 2021-present
 
 
-Work experience
+Research & work experience
 ======
 * Fall 2021- Present: Graduate Student Researcher
   * UCLA - B. John Garrick Institute for the Risk Sciences (GIRS)
