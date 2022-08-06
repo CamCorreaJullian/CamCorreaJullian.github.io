@@ -1,5 +1,5 @@
 ---
-title: "Simulation of a Solar Fired Absorption System for a Case Study in the Dairy Industry"
+title: "Conference: Simulation of a Solar Fired Absorption System for a Case Study in the Dairy Industry"
 collection: publication
 permalink: /publications/solar-ises-2018
 excerpt: 'Winter 2018 Internship Project'
