@@ -1,5 +1,5 @@
 ---
-title: "Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks"
+title: "Conference: Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks"
 collection: conference
 permalink: /conferences/qra_ICHS
 excerpt: 'MS Thesis Part II - Conference'
