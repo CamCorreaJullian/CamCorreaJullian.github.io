@@ -52,7 +52,7 @@ Work experience
   
 Skills
 ======
-* Risk Assessments.
+* Quantitative Risk Assessments (QRA)
 * Relevant Programming & Software: Python, Matlab, Mathematica, JMP. 
 * Bilingual: Spanish (native), English. 
 
