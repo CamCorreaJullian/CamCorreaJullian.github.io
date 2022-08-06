@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Deep Learning techniques for Prognosis of solar thermal systems"
+title: "Journal: Assessment of Deep Learning techniques for Prognosis of solar thermal systems"
 collection: publications
 permalink: /publication/solar-DL-2020
 excerpt: 'Undergraduate Thesis Part I'
