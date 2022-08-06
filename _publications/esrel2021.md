@@ -1,5 +1,5 @@
 ---
-title: "Defining Degradation States for Diagnosis Classification Models in Real Systems based on Monitoring Data"
+title: "Conference: Defining Degradation States for Diagnosis Classification Models in Real Systems based on Monitoring Data"
 collection: conference
 permalink: /conferences/esrel2021
 excerpt: 'Winter-Spring 2021 Project'
