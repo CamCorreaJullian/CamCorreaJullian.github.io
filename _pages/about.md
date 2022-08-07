@@ -24,7 +24,7 @@ Education:
 
 Quick Links: 
 * [B. John Garrick Institute for the Risk Sciences](https://www.risksciences.ucla.edu/)
-[comment]: # ([Safety and Reliability of Autonomous Systems](https://www.risksciences.ucla.edu/saras)) 
+* [Safety and Reliability of Autonomous Systems](https://www.risksciences.ucla.edu/saras)
 * [Mobility Lab @ UCLA](https://mobility-lab.seas.ucla.edu/) 
 
 Personal facts:
