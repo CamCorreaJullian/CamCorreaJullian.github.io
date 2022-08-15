@@ -6,7 +6,7 @@ excerpt: 'Operational Safety ADS Project'
 date: 2022-07-01
 venue: 'Presented at Probabilistic Safety Assessment and Management (PSAM 16)'
 paperurl: 
-citation: 'Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Safety Hazard Identification for Autonomous Driving Systems Fleet Operations in Mobility as a Service. Presented at Probabilistic Safety Assessment and Management (PSAM 16). Presented at Probabilistic Safety Assessment and Management (PSAM 16).'
+citation: 'Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Safety Hazard Identification for Autonomous Driving Systems Fleet Operations in Mobility as a Service. Presented at Probabilistic Safety Assessment and Management (PSAM 16).'
 ---
 **Abstract**
 
@@ -16,4 +16,4 @@ Keywords: autonomous driving systems, remote operation, safety assessment, mobil
 
 [View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/9329433/CC273-PSAM16.pdf)
 
-Recommended citation: Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Safety Hazard Identification for Autonomous Driving Systems Fleet Operations in Mobility as a Service. Presented at Probabilistic Safety Assessment and Management (PSAM 16). Presented at Probabilistic Safety Assessment and Management (PSAM 16).
+Recommended citation: Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Safety Hazard Identification for Autonomous Driving Systems Fleet Operations in Mobility as a Service. Presented at Probabilistic Safety Assessment and Management (PSAM 16).
