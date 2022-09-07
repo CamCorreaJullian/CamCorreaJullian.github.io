@@ -4,7 +4,7 @@ collection: publication
 permalink: /conferences/esrel2020
 excerpt: 'Master Thesis Part I - Conference'
 date: 2020-11-01
-venue: 'Presented at the 30th European Safety and Reliability Conference (ESREL 2020)'
+venue: '30th European Safety and Reliability Conference (ESREL 2020)'
 paperurl: 
 citation: 'Camila Correa-Jullian and Katrina M. Groth. Liquid Hydrogen Storage System FMEA and Data Requirements for Risk Analysis. In Proceedings of the 30th European Safety and Reliability Conference and the 15th Probabilistic Safety Assessment and Management Conference, Venice, Italy, November 2020. Research Publishing
 Services. ISBN: 978-981-14-8593-0. doi:10.3850/978-981-14-8593-0_5714-cd'
