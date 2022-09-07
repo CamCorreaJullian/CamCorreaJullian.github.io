@@ -4,7 +4,7 @@ collection: publication
 permalink: /publications/solar-ises-2018
 excerpt: 'Winter 2018 Internship Project'
 date: 2018-04-16
-venue: 'Presented at EuroSun 2018'
+venue: 'EuroSun 2018'
 paperurl: 
 citation: 'Camila Correa-Jullian, Alicia Crespo, Felipe Cortés, and Mercedes Ibarra. Simulation of a Solar Fired Absorption System for a Case Study in the Dairy Industry. In Proceedings of EuroSun 2018, pages 1–10, Freiburg, Germany, 2018. International Solar Energy Society. doi:10.18086/eurosun2018.04.16'
 ---
