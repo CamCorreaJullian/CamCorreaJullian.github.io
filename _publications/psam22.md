@@ -4,7 +4,7 @@ collection: conference
 permalink: /conferences/psam2022
 excerpt: 'Operational Safety ADS Project'
 date: 2022-07-01
-venue: 'Presented at Probabilistic Safety Assessment and Management (PSAM 16)'
+venue: 'Probabilistic Safety Assessment and Management (PSAM 16)'
 paperurl: 
 citation: 'Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Safety Hazard Identification for Autonomous Driving Systems Fleet Operations in Mobility as a Service. Presented at Probabilistic Safety Assessment and Management (PSAM 16).'
 ---
