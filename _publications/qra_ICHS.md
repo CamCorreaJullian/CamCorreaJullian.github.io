@@ -4,7 +4,7 @@ collection: conference
 permalink: /conferences/qra_ICHS
 excerpt: 'MS Thesis Part II - Conference'
 date: 2021-10-22
-venue: 'Presented at the International Conference on Hydrogen Safety (ICHS 2021), 21-23 September 2021'
+venue: 'International Conference on Hydrogen Safety (ICHS 2021), 21-23 September 2021'
 paperurl: 
 citation: 'Kevin Hartmann, Camila Correa-Jullian, Jacob Thorson, Katrina Groth, and William Buttner. Hydrogen Component Leak Rate Quantification for System Risk and Reliability Assessment through QRA and PHM Frameworks. Presented at 9th International Conference on Hydrogen Safety (ICHS 2021), 10 2021. URL: https://www.osti.gov/biblio/1828144'
 ---
