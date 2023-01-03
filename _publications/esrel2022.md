@@ -14,6 +14,8 @@ System risk analysis and safety assessments of Autonomous Driving Systems (ADS) 
 
 Keywords: autonomous driving systems, safety assessment, mobility as a service, hazard identification
 
-[View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/9508279/J03-06-566.pdf)
+[View Conference Paper here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/9508279/J03-06-566.pdf)
+
+[View Conference Presentation here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/10339324/Presentation_ESREL_V1_nobackup.pptx)
 
 Recommended citation: Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Modeling Fleet Operations of Autonomous Driving Systems in Mobility as a Service for Safety Risk Analysis. Presented at 32nd European Safety and Reliability Conference (ESREL 2022).
