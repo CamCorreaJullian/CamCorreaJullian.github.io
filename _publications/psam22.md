@@ -14,6 +14,9 @@ The safe and reliable operation of Automated Driving Systems (ADS) in the contex
 
 Keywords: autonomous driving systems, remote operation, safety assessment, mobility as a service, hazard identification
 
-[View here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/9329433/CC273-PSAM16.pdf)
+[View Conference Paper here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/9329433/CC273-PSAM16.pdf)
+
+
+[View Conference Presentation here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/10339335/Presentation_V2.pdf)
 
 Recommended citation: Correa-Jullian, C., McCullough, J., Ramos, M., Ma, J., Lopez Droguett, E., & Mosleh, A. (2022). Safety Hazard Identification for Autonomous Driving Systems Fleet Operations in Mobility as a Service. Presented at Probabilistic Safety Assessment and Management (PSAM 16).
