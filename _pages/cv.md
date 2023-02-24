@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV Updated June 2022](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/8911352/CV_June2022.pdf)
+[CV Updated February 2023](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/10821240/Curriculum_Vitae_Feb23.pdf)
+
 
 Education
 ======
@@ -46,14 +47,16 @@ Research & work experience
   * Supervisor: Dr. Mercedes Ibarra
 
 * Winter 2017
-  * Enercom S.A.
+  * Enercom Sp.A.
   * Engineering Trainee Internship in Production Area. Design process of cyclones, hydro-cyclones, screw heat exchangers and belt conveyors. 
   * Supervisor: Rafael Maturana
   
 Skills
 ======
-* Quantitative Risk Assessments (QRA)
-* Relevant Programming & Software: Python, Matlab, Mathematica, JMP. 
+* Risk Assessment techniques & methodologies: Systems-Theoretic Process Analysis (STPA), Concurrent Task Analysis (CoTA), Event Sequence Diagrams (ESD), Event Tree and Fault Tree Analysis (ETA, FTA). 
+* Reliability Analysis, probabilistic and statistical modeling, probabilistic-based design. 
+* Machine Learning & Deep Learning techniques.
+* Relevant Programming & Software: Python, Matlab, Mathematica, JMP, Trilith. 
 * Bilingual: Spanish (native), English. 
 
 Awards
