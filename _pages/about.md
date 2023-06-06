@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Camila Correa-Jullian, I am a PhD student in the Mechanical and Aerospace Engineering department at University of California, Los Angeles. My current research at the B. John Garrick Institute for the Risk Sciences is focused on identifying, modeling, and simulating operational risks of Connected and Automated Vehicles (CAV) in the context of Mobility as a Service (MaaS) and the role of human-system interactions in automated system safety. My previous research has focused on the application of Machine Learning techniques for Prognosis and Health Management of renewable energy systems, such as solar thermal and solar PV, and risk assessments of hydrogen fueling station infrastructure and liquid hydrogen storage systems. 
+My name is Camila Correa-Jullian, I am a PhD candidate of the Mechanical and Aerospace Engineering department at University of California, Los Angeles. My current research at the B. John Garrick Institute for the Risk Sciences is focused on identifying, modeling, and simulating operational risks of Connected and Automated Vehicles (CAV) in the context of Mobility as a Service (MaaS) and the role of human-system interactions in automated system safety. My previous research has focused on the application of Machine Learning techniques for Prognosis and Health Management of renewable energy systems, such as solar thermal and solar PV, and risk assessments of hydrogen fueling station infrastructure and liquid hydrogen storage systems. 
 
 Quick Info: 
   * Ph.D.: University of California, Los Angeles (Fall 2021-Present)
