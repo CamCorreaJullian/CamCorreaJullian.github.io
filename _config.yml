@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Camila Correa-Jullian, MS"
 title_separator          : "-"
 name                     : &name "Camila A. Correa Jullian"
-description              : &description "PhD Student @ Mechanical and Aerospace Engineering Department, UCLA"
+description              : &description "PhD Candidate @ Mechanical and Aerospace Engineering Department, UCLA"
 url                      : https://CamCorreaJullian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Camila Correa-Jullian"
   avatar           : "Default_photo.jpg"
-  bio              : "Mechanical and Aerospace Engineering PhD student and Graduate Student Researcher at The B. John Garrick Institute for the Risk Sciences"
+  bio              : "Mechanical and Aerospace Engineering PhD Candidate and Graduate Student Researcher at The B. John Garrick Institute for the Risk Sciences"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
