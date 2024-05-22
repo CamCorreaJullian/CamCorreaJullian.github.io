@@ -20,11 +20,13 @@ Education
 * Ph.D in Mechanical and Aerospace Engineering, University of California Los Angeles, 2021-present
 
 
-Research & work experience
+Research & Work Experience
 ======
 * Fall 2021- Present: Graduate Student Researcher
   * UCLA - B. John Garrick Institute for the Risk Sciences (GIRS)
   * Addressing operational safety concepts for Level 4 Autonomous Driving System (ADS) fleets.
+  * Modeling safety-critical human-system interactions in Heavy-Duty ADS commercial fleet applications.
+  * Researching the safety impacts of V2X technologies through probabilistic risk assessment.
   * Supervisor: Dr. Ali Mosleh, Dr. Jiaqi Ma, Dr. Marilia Ramos
 
 * Fall 2019 - Spring 2021: Graduate Research Assistant
@@ -57,11 +59,18 @@ Skills
 * Risk Assessment techniques & methodologies: Systems-Theoretic Process Analysis (STPA), Concurrent Task Analysis (CoTA), Event Sequence Diagrams (ESD), Event Tree and Fault Tree Analysis (ETA, FTA). 
 * Reliability Analysis, probabilistic and statistical modeling, probabilistic-based design. 
 * Machine Learning & Deep Learning techniques.
-* Relevant Programming & Software: Python, Matlab, Mathematica, JMP, Trilith. 
-* Bilingual: Spanish (native), English. 
+* Relevant Programming & Software: Python, Matlab, Mathematica, JMP, Trilith, Minitab, MS Excel. 
+* Certifications: Collaborative Institutional Training Initiative (CITI) Program - Human Subject Research.
+* Excellent written and verbal communication skills, with strong teamwork and organizational abilities.
+* Strong system safety and reliability engineering modeling skills, experience in developing qualitative and
+quantitative risk assessments for complex engineering systems.
+* Language proficiency: Spanish (Native), English (Bilingual Proficiency), Italian (Conversational).
 
 Awards
 ======
+* IEEE ICHMS 2024 - 2024 IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)
+  * Best Student Paper Award "Exploring Human-Autonomy Teams in Automated Driving System Operations"
+    
 * University of Maryland -A. James Clark School of Engineering
   * 2021 Master’s Dean’s Research Award Second Place Prize, July 2021
 
