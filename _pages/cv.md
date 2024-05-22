@@ -110,5 +110,11 @@ Teaching
   
 Service and leadership
 ======
-* Professional Service: Journal article reviewer
-  * Solar Energy Journal, IEEE Transactions LATAM, Energy Sources Journal, International Journal of Hydrogen Energy, Environment Systems and Decisions. 
+* 2023-2024 International Workshop on Autonomous Systems Safety, Organizing Committee.
+  * The International Workshop on Autonomous Systems Safety (IWASS) is an invitation-only event that gathers key experts in autonomous systems safety from academia, industry, and regulatory agencies. IWASS aims to identify common challenges related to safety, reliability, and security (SRS) of autonomous systems, covering autonomous maritime, marine, land vehicles, and aerospace systems, and to discuss and propose possible solutions for the identified challenges.
+    
+* Professional Service: Academic Peer Review
+  * Journal of Reliability Engineering & System Safety (JRESS), Energy Sources Journal, Part A: Recovery, Utilization, and Environmental Effects, International Journal of Hydrogen Energy (IJHE), Solar Energy Journal, IEEE Transactions LATAM.
+    
+* Mentorship Experience: University of California Los Angeles, The B. John Garrick Institute for the Risk Sciences
+  * Supervised three volunteer undergraduate students and a Graduate Student Research Master student from the Mechanical and Aerospace Engineering Department in supporting research projects leading to various conference publications. 
