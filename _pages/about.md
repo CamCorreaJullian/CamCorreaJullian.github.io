@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Camila Correa-Jullian"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ My name is Camila Correa-Jullian, I am a PhD candidate of the Mechanical and Aer
 
 Quick Info: 
   * Ph.D. Candidate: University of California, Los Angeles (Fall 2021-Present)
-    * Mechanical and Aerospace Engineering, Advisor: [Dr. Ali Mosleh](https://scholar.google.com/citations?user=FGIZHqEAAAAJ&hl=es)
+    * Mechanical and Aerospace Engineering, Advisors: [Dr. Ali Mosleh](https://scholar.google.com/citations?user=FGIZHqEAAAAJ&hl=es), [Dr. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/)
   * M.S.: University of Maryland, College Park (2021)
     * Reliability Engineering, Advisor: [Dr. Katrina Groth](https://scholar.google.com/citations?hl=es&user=KLstwMcAAAAJ)
     * Thesis: "Data Requirements to Enable PHM for Liquid Hydrogen Storage Systems from a Risk Assessment Perspective." Available [online](https://doi.org/10.13016/9v8j-cyzu)
