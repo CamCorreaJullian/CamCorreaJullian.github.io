@@ -2,7 +2,7 @@
 title: "Conference: Exploring Human-Autonomy Teams in Automated Driving System Operations"
 collection: conference
 permalink: /conferences/ichms2024
-excerpt: 'PhD Thesis'
+excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-05-17
 venue: '4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)'
 paperurl: 
