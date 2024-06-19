@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: compress
 title: "Publications and Conference Proceedings"
 permalink: /publications/
 author_profile: true
