@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive-taxonomy
 title: "Publications and Conference Proceedings"
 permalink: /publications/
 author_profile: true
