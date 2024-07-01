@@ -6,7 +6,7 @@ excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-05-17
 venue: '4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)'
 paperurl: 
-citation: 'Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Exploring Human-Autonomy Teams in Automated Driving System Operations. Presented at 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024).'
+citation: 'C. Correa-Jullian, M. Ramos, A. Mosleh and J. Ma, "Exploring Human-Autonomy Teams in Automated Driving System Operations," 2024 IEEE 4th International Conference on Human-Machine Systems (ICHMS), Toronto, ON, Canada, 2024, pp. 1-6, doi: 10.1109/ICHMS59971.2024.10555762.'
 ---
 **Abstract**
 
@@ -15,9 +15,11 @@ human and autonomous agents in ADS operations. This work draws from the Informat
 
 Keywords: human-autonomy teams, automated driving systems, remote operators, driver-vehicle interaction
 
-[View Conference Paper here](https://www.researchgate.net/publication/380783795_Exploring_Human-Autonomy_Teams_in_Automated_Driving_System_Operations). Official Proceedings will be published soon!
+[View Conference Paper here](https://ieeexplore.ieee.org/abstract/document/10555762)
 
 [View Conference Presentation here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/15408381/SessionTrack_Session4_Paper168_CorreaJullian_shared.pdf)
 
 
-Recommended citation: Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Exploring Human-Autonomy Teams in Automated Driving System Operations. Presented at 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024).
+Recommended citation: C. Correa-Jullian, M. Ramos, A. Mosleh and J. Ma, "Exploring Human-Autonomy Teams in Automated Driving System Operations," 2024 IEEE 4th International Conference on Human-Machine Systems (ICHMS), Toronto, ON, Canada, 2024, pp. 1-6, doi: 10.1109/ICHMS59971.2024.10555762.
+
+
