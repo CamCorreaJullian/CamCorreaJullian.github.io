@@ -6,18 +6,16 @@ excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-06-23
 venue: '4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)'
 paperurl: 
-citation: 'Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Exploring Human-Autonomy Teams in Automated Driving System Operations. Presented at 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024).'
+citation: 'Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Task Allocation And Control Transitions In Autonomous Driving System Operations. In Advances in Reliability, Safety and Security, Part 1. The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-00-5.'
 ---
 **Abstract**
 
-Advancing our understanding of human-autonomous system collaboration is a critical task for the safer design of complex socio-technical systems. The adoption of Automated Driving Systems (ADS) in mobility services and in privately-owned vehicles is expected to have a major impact on the transportation environment. From a safety and risk assessment perspective, it is of interest to define, model and assess the interactions, collaborations, and teaming that can occur between
-human and autonomous agents in ADS operations. This work draws from the Information, Decision, and Action in Crew context (IDAC) cognitive model to explore interactions and errors across different teams in ADS contexts. Two cases of Human-Autonomy Teams (HATs) are discussed, focusing on remote operators and on-board drivers collaborating with ADS-equipped vehicles.
+Automated Driving Systems (ADS) are expected to play a significant role in the transportation environment in the coming decades, either deployed for passenger transport or as features in privately-owned vehicles. In both cases, humans will continue interacting with these systems as drivers, operators, and/or fellow road users. An element defining the current levels of driving automation is the task division and allocation between the human and the autonomous agent while operating under specific conditions. In this context, takeover and handover events, i.e., control transitions that can be triggered by exceeding the specified operational conditions, have become a focus of interest in multiple safety, reliability, and human factors research. This work discusses the high-level tasks human and autonomous agents perform in ADS operations. Three cases of interest are defined based on their relation to the ADS-equipped vehicle: a remote operator, a safety driver, and a consumer-level driver. This definition is based on which agent is responsible for high-level tasks, such as monitoring, planning, and executing the Dynamic Driving Tasks. A new taxonomy for control transitions and interventions is proposed for the three use cases. This taxonomy considers who initiated the control transition, who is in control after the transitions, the context that triggers the event, and whether it is a success or failure. Including successful or failed states in the taxonomy is relevant to address potential hazard scenarios and develop appropriate safety mechanisms to prevent or mitigate their risk.
 
-Keywords: human-autonomy teams, automated driving systems, remote operators, driver-vehicle interaction
+Keywords: automated driving systems, control transitions, takeover and handover, task allocation
 
-[View Conference Paper here](https://www.researchgate.net/publication/380783795_Exploring_Human-Autonomy_Teams_in_Automated_Driving_System_Operations). Official Proceedings will be published soon!
+[View Conference Paper here](https://github.com/user-attachments/files/16057423/task-allocation-and-control-transitions-in-autonomous-driving-system-operations.pdf)
 
-[View Conference Presentation here](https://github.com/CamCorreaJullian/CamCorreaJullian.github.io/files/15408381/SessionTrack_Session4_Paper168_CorreaJullian_shared.pdf)
+[View Conference Presentation here](https://github.com/user-attachments/files/16057430/Correa-Jullian_ESREL2024_SharedVersion.pptx)
 
-
-Recommended citation: Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Exploring Human-Autonomy Teams in Automated Driving System Operations. Presented at 4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024).
+Recommended citation: Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Task Allocation And Control Transitions In Autonomous Driving System Operations. In Advances in Reliability, Safety and Security, Part 1. The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-00-5.
