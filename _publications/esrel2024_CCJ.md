@@ -18,4 +18,4 @@ Keywords: automated driving systems, control transitions, takeover and handover,
 
 [View Conference Presentation here](https://github.com/user-attachments/files/16057430/Correa-Jullian_ESREL2024_SharedVersion.pptx)
 
-Recommended citation: Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Task Allocation And Control Transitions In Autonomous Driving System Operations. In Advances in Reliability, Safety and Security, Part 1 - Kołowrocki, Dąbrowska (eds.). The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-13-5 (printed), ISBN 978-83-68136-00-5 (electronic).
+Recommended citation: Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Task Allocation And Control Transitions In Autonomous Driving System Operations. In Advances in Reliability, Safety and Security, Part 1. The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-13-5 (printed), ISBN 978-83-68136-00-5 (electronic).
