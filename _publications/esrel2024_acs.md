@@ -6,7 +6,7 @@ excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-06-23
 venue: '34th European Safety and Reliability Conference (ESREL 2024)'
 paperurl: 
-citation: 'Cosmin-Spanoche, A., Correa-Jullian, C., Xia, X., Mosleh, A. & Ma, J. (2024). Exploring Safety-Related Metrics To Assess Human-System Interactions In Heavy-Duty Automated Vehicles. In Advances in Reliability, Safety and Security, Part 5 - Kołowrocki, Dąbrowska (eds.). The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-17-3 (printed), ISBN 978-83-68136-04-3 (electronic)."
+citation: 'Cosmin-Spanoche, A., Correa-Jullian, C., Xia, X., Mosleh, A. & Ma, J. (2024). Exploring Safety-Related Metrics To Assess Human-System Interactions In Heavy-Duty Automated Vehicles. In Advances in Reliability, Safety and Security, Part 5. The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-17-3 (printed), ISBN 978-83-68136-04-3 (electronic)."
 ---
 **Abstract**
 
