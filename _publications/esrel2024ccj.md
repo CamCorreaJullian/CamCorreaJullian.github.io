@@ -4,7 +4,7 @@ collection: conference
 permalink: /conferences/esrel2024ccj
 excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-06-23
-venue: '4th IEEE International Conference on Human-Machine Systems (IEEE ICHMS 2024)'
+venue: '34th European Safety and Reliability Conference (ESREL 2024)'
 paperurl: 
 citation: 'Correa-Jullian, C., Ramos, M., Mosleh, A. & Ma, J. (2024). Task Allocation And Control Transitions In Autonomous Driving System Operations. In Advances in Reliability, Safety and Security, Part 1. The 34th European Safety and Reliability Conference (ESREL 2024) Monograph Book Series. 2024 Polish Safety and Realiability Association, Gdynia, ISBN 978-83-68136-00-5.'
 ---
