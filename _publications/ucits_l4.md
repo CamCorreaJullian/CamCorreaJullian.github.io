@@ -1,7 +1,7 @@
 ---
 title: "Report: Risk Assessment for Remotely Operation of Level 4 Automated Driving Systems in Mobility as a Service Transport"
-collection: report
-permalink: /reports/ucits_l4
+collection: publication
+permalink: /publications/ucits_l4
 excerpt: 'Operational Safety ADS Project'
 date: 2024-05-01
 venue: 'University of California Institute of Transportation Studies (UC-ITS)'
