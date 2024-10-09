@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate of the Mechanical and Aerospace Engineering department at University of California, Los Angeles. My current research at the B. John Garrick Institute for the Risk Sciences is focused on characterizing, modeling, and simulating operational safety risks of human-system interactions in automated systems and Connected and Automated Vehicles (CAV). My previous research has focused on the application of Machine Learning techniques for Prognosis and Health Management of renewable energy systems, such as solar thermal and solar PV, and risk assessments of hydrogen fueling station infrastructure and liquid hydrogen storage systems. 
+I am a PhD candidate of the Mechanical and Aerospace Engineering department at University of California, Los Angeles. My current research at the B. John Garrick Institute for the Risk Sciences is focused on characterizing, modeling, and simulating operational safety risks of human-system interactions in automated systems and Connected and Automated Vehicles (CAV) and I also help co-organize the [International Workshop for Autonomous System Safety (IWASS)](https://www.risksciences.ucla.edu/iwass-home). My previous research has focused on the application of Machine Learning techniques for Prognosis and Health Management of renewable energy systems, such as solar thermal and solar PV, and risk assessments of hydrogen fueling station infrastructure and liquid hydrogen storage systems. 
 
 Quick Info: 
   * Ph.D. Candidate: University of California, Los Angeles (Fall 2021-Present)
