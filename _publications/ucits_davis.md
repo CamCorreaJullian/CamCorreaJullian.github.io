@@ -1,7 +1,7 @@
 ---
 title: "Report: A Blueprint for Improving Automated Driving System Safety"
-collection: report
-permalink: /reports/ucits_l4
+collection: publication
+permalink: /publications/ucits_l4
 excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-07-01
 venue: 'University of California Institute of Transportation Studies (UC-ITS)'
