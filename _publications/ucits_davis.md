@@ -6,7 +6,7 @@ excerpt: 'Human-Autonomy Teams in Automated Driving Systems'
 date: 2024-07-01
 venue: 'University of California Institute of Transportation Studies (UC-ITS)'
 paperurl: 
-citation: 'D'Agostino, M. C, Michael, C. E, Ramos, M., & Correa-Jullian, C. (2024). A Blueprint for Improving Automated Driving System Safety. UC Office of the President: University of California Institute of Transportation Studies. http://dx.doi.org/10.7922/G2RR1WKG Retrieved from https://escholarship.org/uc/item/46d6d86x'
+citation: 'D"'"Agostino, M. C, Michael, C. E, Ramos, M., & Correa-Jullian, C. (2024). A Blueprint for Improving Automated Driving System Safety. UC Office of the President: University of California Institute of Transportation Studies. http://dx.doi.org/10.7922/G2RR1WKG Retrieved from https://escholarship.org/uc/item/46d6d86x'
 ---
 **Abstract**
 
