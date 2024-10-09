@@ -1,7 +1,7 @@
 ---
 title: "Automated Vehicle Safety: Safety Drivers and Remote Operators"
 collection: talks
-type: "Talk"
+type: "Research Update"
 permalink: /talks/trbarts2024
 venue: "The 2024 TRB Annual Automated Road Transportation Symposium (ARTS 2024), 2024."
 date: 2024-07-29
