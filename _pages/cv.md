@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV_Updated June 2024](https://github.com/user-attachments/files/16060559/CV_June24.pdf)
+[CV_Updated February 2025](https://github.com/user-attachments/files/18816578/CV_Feb25.pdf)
+
 
 
 Education
