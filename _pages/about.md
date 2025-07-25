@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Camila Correa-Jullian"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,6 +15,7 @@ My previous research has focused on the application of Machine Learning techniqu
 Quick Info: 
   * Ph.D.: University of California, Los Angeles (2025)
     * Mechanical and Aerospace Engineering, Advisors: [Dr. Ali Mosleh](https://scholar.google.com/citations?user=FGIZHqEAAAAJ&hl=es), [Dr. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/)
+    * Thesis: Human-Autonomy Teams in Automated Driving Systems: An Integrated Operational Safety Methodology (TBD)
   * M.S.: University of Maryland, College Park (2021)
     * Reliability Engineering, Advisor: [Dr. Katrina Groth](https://scholar.google.com/citations?hl=es&user=KLstwMcAAAAJ)
     * Thesis: ["Data Requirements to Enable PHM for Liquid Hydrogen Storage Systems from a Risk Assessment Perspective."](https://doi.org/10.13016/9v8j-cyzu)
