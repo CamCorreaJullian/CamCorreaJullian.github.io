@@ -12,10 +12,10 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Camila Correa-Jullian, MS"
+title                    : "Camila Correa-Jullian, PhD"
 title_separator          : "-"
 name                     : &name "Camila A. Correa Jullian"
-description              : &description "PhD Candidate @ Mechanical and Aerospace Engineering Department, UCLA"
+description              : &description "Postdoc @ Garrick Institute for Risk Sciences, UCLA"
 url                      : https://CamCorreaJullian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Camila Correa-Jullian"
   avatar           : "Photo_UCLA_square.jpg"
-  bio              : "Mechanical and Aerospace Engineering PhD Candidate and Graduate Student Researcher at The B. John Garrick Institute for the Risk Sciences"
+  bio              : "Incoming Program Manager of the Center of Excellence on New Mobility and Automated Vehicles and Posdoctral Researcher at the B. John Garrick Institute for the Risk Sciences."
   location         : "Los Angeles, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
