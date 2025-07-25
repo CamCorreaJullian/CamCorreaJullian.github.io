@@ -18,12 +18,12 @@ Education
 * B.S. in in Mechanical Engineering, Universidad de Chile - Santiago de Chile, Chile, 2019,
 * Mechanical Engineer Professional Degree, Universidad de Chile - Santiago de Chile, Chile, 2019
 * M.S. in in Reliability Engineering, University of Maryland - College Park, Maryland, U.S, 2021
-* Ph.D in Mechanical and Aerospace Engineering, University of California Los Angeles, 2021-present
+* Ph.D in Mechanical and Aerospace Engineering, University of California Los Angeles, 2025
 
 
 Research & Work Experience
 ======
-* Fall 2021- Present: Graduate Student Researcher
+* Fall 2021- Summer 2025: Graduate Student Researcher
   * UCLA - B. John Garrick Institute for the Risk Sciences (GIRS)
   * Addressing operational safety concepts for Level 4 Autonomous Driving System (ADS) fleets.
   * Modeling safety-critical human-system interactions in Heavy-Duty ADS commercial fleet applications.
@@ -111,11 +111,15 @@ Teaching
   
 Service and leadership
 ======
-* 2023-2024 International Workshop on Autonomous Systems Safety, Organizing Committee.
+* 2023-2025 International Workshop on Autonomous Systems Safety, Organizing Committee.
   * The International Workshop on Autonomous Systems Safety (IWASS) is an invitation-only event that gathers key experts in autonomous systems safety from academia, industry, and regulatory agencies. IWASS aims to identify common challenges related to safety, reliability, and security (SRS) of autonomous systems, covering autonomous maritime, marine, land vehicles, and aerospace systems, and to discuss and propose possible solutions for the identified challenges.
     
 * Professional Service: Academic Peer Review
   * Journal of Reliability Engineering & System Safety (JRESS), Energy Sources Journal, Part A: Recovery, Utilization, and Environmental Effects, International Journal of Hydrogen Energy (IJHE), Solar Energy Journal, IEEE Transactions LATAM.
     
 * Mentorship Experience: University of California Los Angeles, The B. John Garrick Institute for the Risk Sciences
-  * Supervised three volunteer undergraduate students and a Graduate Student Research Master student from the Mechanical and Aerospace Engineering Department in supporting research projects leading to various conference publications. 
+  * Supervised three volunteer undergraduate students and a Graduate Student Research Master student from the Mechanical and Aerospace Engineering Department in supporting research projects leading to various conference publications.
+ 
+* Professional Memberships
+  * SAE International
+  * IEEE Reliability Society   
