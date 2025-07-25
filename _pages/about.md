@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Program Manager of the [Center of Excellence on New Mobility and Automated Vehicles](https://www.mobilitycoe.org/) and Posdoctral Researcher at the [B. John Garrick Institute for the Risk Sciences](https://www.risksciences.ucla.edu/). I obtained my PhD degree in [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the University of California, Los Angeles (UCLA) during the summer of 2025. My current research is focused on characterizing, modeling, and simulating operational safety risks of human-system interactions in automated systems and Connected and Automated Vehicles (CAV) from a probabilistic risk assessment perspective, and I also help co-organize the [International Workshop for Autonomous System Safety (IWASS)](https://www.risksciences.ucla.edu/iwass-home). 
+I am an incoming Program Manager of the [Center of Excellence on New Mobility and Automated Vehicles](https://www.mobilitycoe.org/) and Posdoctral Researcher at the [B. John Garrick Institute for the Risk Sciences](https://www.risksciences.ucla.edu/). 
+
+I obtained my PhD degree in [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the University of California, Los Angeles (UCLA) during the summer of 2025. My current research is focused on characterizing, modeling, and simulating operational safety risks of human-system interactions in automated systems and Connected and Automated Vehicles (CAV) from a probabilistic risk assessment perspective, and I also help co-organize the [International Workshop for Autonomous System Safety (IWASS)](https://www.risksciences.ucla.edu/iwass-home). 
 
 My previous research has focused on the application of Machine Learning techniques for Prognosis and Health Management of renewable energy systems, such as solar thermal and solar PV, and risk assessments of hydrogen fueling station infrastructure and liquid hydrogen storage systems. 
 
