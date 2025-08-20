@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Program Manager of the [Center of Excellence on New Mobility and Automated Vehicles](https://www.mobilitycoe.org/) and Postdoctoral Researcher at the [B. John Garrick Institute for the Risk Sciences](https://www.risksciences.ucla.edu/). 
+I am an incoming Program Manager of the [Center of Excellence on New Mobility and Automated Vehicles](https://www.mobilitycoe.org/) and Postdoctoral Scholar at the [B. John Garrick Institute for the Risk Sciences](https://www.risksciences.ucla.edu/). 
 
-I obtained my PhD degree in [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the University of California, Los Angeles (UCLA) during the summer of 2025. My current research is focused on characterizing, modeling, and simulating operational safety risks of human-system interactions in automated systems and Connected and Automated Vehicles (CAV) from a probabilistic risk assessment perspective, and I also help co-organize the [International Workshop for Autonomous System Safety (IWASS)](https://www.risksciences.ucla.edu/iwass-home). 
+I obtained my Ph.D. degree in [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the University of California, Los Angeles (UCLA) in September, 2025. My current research is focused on characterizing, modeling, and simulating operational safety risks of human-system interactions in automated systems and Connected and Automated Vehicles (CAV) from a probabilistic risk assessment perspective, and I also help co-organize the [International Workshop for Autonomous System Safety (IWASS)](https://www.risksciences.ucla.edu/iwass-home). 
 
 My previous research has focused on the application of Machine Learning techniques for Prognosis and Health Management of renewable energy systems, such as solar thermal and solar PV, and risk assessments of hydrogen fueling station infrastructure and liquid hydrogen storage systems. 
 
 Quick Info: 
   * Ph.D.: University of California, Los Angeles (2025)
     * Mechanical and Aerospace Engineering, Advisors: [Dr. Ali Mosleh](https://scholar.google.com/citations?user=FGIZHqEAAAAJ&hl=es), [Dr. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/)
-    * Thesis: Human-Autonomy Teams in Automated Driving Systems: An Integrated Operational Safety Methodology (TBD)
+    * Thesis: ["Human-Autonomy Teams in Automated Driving Systems: An Integrated Operational Safety Methodology"](https://escholarship.org/uc/item/6zt6r8r0)
   * M.S.: University of Maryland, College Park (2021)
     * Reliability Engineering, Advisor: [Dr. Katrina Groth](https://scholar.google.com/citations?hl=es&user=KLstwMcAAAAJ)
     * Thesis: ["Data Requirements to Enable PHM for Liquid Hydrogen Storage Systems from a Risk Assessment Perspective."](https://doi.org/10.13016/9v8j-cyzu)
